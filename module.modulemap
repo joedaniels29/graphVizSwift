@@ -1,0 +1,6 @@
+module GraphViz {
+    header "/usr/local/Cellar/graphviz/2.40.1/include/graphviz/gvc.h"
+    link "gvc"
+    link "cgraph"
+    link "cdt"
+}
